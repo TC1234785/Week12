@@ -1,3 +1,27 @@
 .pinkBG{
     background-color: pink;
 }
+
+.greenBG{
+    background-color: green;
+}
+
+.red {
+    color: red
+}
+
+.blue{
+    color: blue
+}
+
+.white{
+    color: white
+}
+
+.yellow{
+    color: Yellow
+}
+
+div {
+    background-color: cyan;
+}
