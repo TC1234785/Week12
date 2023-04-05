@@ -79,3 +79,6 @@ function addNewElements(){
 }
 //3. addEventListener
 button.addEventListener("click", addNewElements)
+
+
+//random text for pull req//
